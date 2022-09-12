@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on RoMA an anti-tracking scheme
-- 🌱 I’m currently learning about blockchain technologies
+- 🌱 I'm currently learning the Rust language and P4 switches
 - 💬 Ask me about GNU\Linux, Wireshark, RoMA, Arch Linux and other open source stuff
 
