@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I am currently working on my PhD topic : "Modeling Modern Network Traffic for Automated Machine Learning in Network Systems".
+- 🔭 I am currently working on packet processing in high speed network.
 - 🌱 I'm currently learning the Rust language and P4.
 - 💬 Ask me about GNU\Linux, Wireshark, RoMA, Arch Linux and other open source stuff!
 
