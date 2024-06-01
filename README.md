@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I'm currently working on feature extraction for ML in high-speed networks.
-- 🌱 I'm currently learning the Rust language and P4.
+- 🌱 I'm currently learning the Rust language.
 - 💬 Ask me about GNU\Linux, Wireshark, Arch Linux and other open source stuff!
 
