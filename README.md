@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I'm currently working on feature extraction for ML in high-speed networks.
-- 💬 Ask me about GNU\Linux, Wireshark, Arch Linux and other open source stuff!
+- 🔭 I’m interested in everything linked to network protocols and their lifecycle, from RFC and implementation to measurement in the wild.
+- 🔍 I’m more specifically interested in modern security-oriented protocols such as QUIC and ECH.
 
